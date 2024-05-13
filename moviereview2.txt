@@ -1,0 +1,14 @@
+#Format:Column
+Alien 5
+Anaconda 3
+Alien 4
+Alien 5
+Anaconda 2
+Zombieland 3
+Anaconda 3
+Alien 1
+Alien 3
+Zombieland 1
+Zombieland 3
+Alien 5
+Brazil 5
